@@ -3,7 +3,7 @@
 **`Estudante de ADS`**
 
 Olá, meu nome é Fabio Kenzo. Sou natural de Taubaté-SP e estudante de Análise e Desenvolvimento de Sistemas na UNITAU. Atualmente, trabalho de forma independente como desenvolvedor de sites WordPress e estou aprofundando meus conhecimentos em Backend, com foco em Java. Meu objetivo é unir a experiência prática em desenvolvimento web com tecnologias de infraestrutura.
-LINKEDIN: https://www.linkedin.com/in/fabio-kenzo-okamura-6575b6301/
+MEU SITE: https://www.kenzowebstudio.com/
 
 ---
 
