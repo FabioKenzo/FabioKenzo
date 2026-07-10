@@ -8,7 +8,7 @@ Atualmente atuo como desenvolvedor freelancer criando sites em WordPress, experi
 
 Hoje concentro meus estudos e projetos no desenvolvimento Backend utilizando Java, Spring Boot, Spring Security, SQL, Docker, APIs REST, Git e testes automatizados, buscando minha primeira oportunidade como Desenvolvedor Java Júnior.
 
-Meu Site: https://www.kenzowebstudio.com/
+Meu site:https://www.kenzowebstudio.com/
 ---
 
 ### 🤖 Linguagens e Tecnologias
