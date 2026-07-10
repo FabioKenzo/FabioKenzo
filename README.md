@@ -1,13 +1,14 @@
 # Fabio Kenzo
 
-**`Desenvolvedor Back-end Java | Spring Boot | Spring Security | APIs REST | SQL | Docker | Angular`**
+**`Desenvolvedor Backend Java | Spring Boot | Spring Security | APIs REST | SQL | Docker | Angular`**
 
 Olá! Sou Fabio Kenzo, estudante de Análise e Desenvolvimento de Sistemas na UNITAU e desenvolvedor focado em Backend com Java.
 
 Atualmente atuo como desenvolvedor freelancer criando sites em WordPress, experiência que me proporcionou contato com clientes, levantamento de requisitos e entrega de projetos reais.
 
-Hoje estou direcionando minha carreira para o desenvolvimento Back-end utilizando Java, Spring Boot, SQL, Docker, APIs REST, Git e testes automatizados, buscando minha primeira oportunidade como Desenvolvedor Java Júnior.
+Hoje concentro meus estudos e projetos no desenvolvimento Backend utilizando Java, Spring Boot, Spring Security, SQL, Docker, APIs REST, Git e testes automatizados, buscando minha primeira oportunidade como Desenvolvedor Java Júnior.
 
+Meu Site: https://www.kenzowebstudio.com/
 ---
 
 ### 🤖 Linguagens e Tecnologias
