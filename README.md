@@ -1,10 +1,12 @@
 # Fabio Kenzo
 
-**`Estudante de ADS`**
+**`Desenvolvedor Back-end Java | Spring Boot | Spring Security | APIs REST | SQL | Docker | Angular`**
 
-Olá, meu nome é Fabio Kenzo. Sou natural de Taubaté-SP e estudante de Análise e Desenvolvimento de Sistemas na UNITAU. Atualmente, trabalho de forma independente como desenvolvedor de sites WordPress e estou aprofundando meus conhecimentos em Backend, com foco em Java. Meu objetivo é unir a experiência prática em desenvolvimento web com tecnologias de infraestrutura.
+Olá! Sou Fabio Kenzo, estudante de Análise e Desenvolvimento de Sistemas na UNITAU e desenvolvedor focado em Backend com Java.
 
-MEU SITE: https://www.kenzowebstudio.com/
+Atualmente atuo como desenvolvedor freelancer criando sites em WordPress, experiência que me proporcionou contato com clientes, levantamento de requisitos e entrega de projetos reais.
+
+Hoje estou direcionando minha carreira para o desenvolvimento Back-end utilizando Java, Spring Boot, SQL, Docker, APIs REST, Git e testes automatizados, buscando minha primeira oportunidade como Desenvolvedor Java Júnior.
 
 ---
 
